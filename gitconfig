@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nadia.gaggini@gmail.com
+	name = Nadia Gaggini
